@@ -1,4 +1,4 @@
-# Reusable GHA workflows
+# Reusable GHA workflows.
 
 ## CLA-check workflow
 The [cla-check](https://github.com/crate/actions/blob/main/.github/workflows/cla-check.yml) workflow

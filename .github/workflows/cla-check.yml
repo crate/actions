@@ -1,4 +1,5 @@
-name: Check PR Author has signed CLA
+name: Check PR Author has signed CLA.
+
 on:
   pull_request_target:
     types: [opened, synchronize, unlabeled]
